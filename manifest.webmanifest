@@ -1,0 +1,19 @@
+{
+  "name": "30 дней — трекер дисциплины",
+  "short_name": "30 дней",
+  "description": "Личный трекер дисциплины на 30 дней",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e111c",
+  "theme_color": "#0e111c",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
